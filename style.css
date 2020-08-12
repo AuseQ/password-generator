@@ -1,0 +1,23 @@
+html{
+  background-color: #393e46;
+}
+body{
+  background-color: #393e46;
+}
+/* navigation */
+.nav-color{
+  background-color: #222831;
+}
+.nav-title{
+  font-size: 25px;
+  color: white;
+}
+/* content generate */
+#container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+button{
+  background-color: #d65a31 !important;
+}
